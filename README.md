@@ -18,8 +18,3 @@
 <a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> 
 </p>
-
-
-🏆 My stats:
-
-![image](https://github-readme-stats.vercel.app/api?username=ba4ana&show_icons=true)
