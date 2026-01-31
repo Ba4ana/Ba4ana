@@ -20,5 +20,7 @@
 </p>
 
 <h3 align="left">My stats:</h3> 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ba4ana&theme=ayu_mirage)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ba4ana&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ba4ana&theme=ayu_mirage)
+
