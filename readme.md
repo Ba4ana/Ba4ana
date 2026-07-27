@@ -25,8 +25,3 @@
     <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="40" height="40" />
   </a>
 </p>
-
-<p align="left">
-  <img alt="GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ba4ana&theme=ayu_mirage" />
-  <img alt="Profile details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ba4ana&theme=ayu_mirage" />
-</p>
