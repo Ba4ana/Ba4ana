@@ -1,13 +1,13 @@
 <h1 align="center">
-  Hi, I'm <a href="https://winbuff.ru/">Bachana</a>
+  Привет, я <a href="https://winbuff.ru/">Бачана</a>
 </h1>
 
-<h3 align="center">A budding Python developer</h3>
+<h3 align="center">Разработчик на Python</h3>
 
-- I'm currently working on **System Optimization Utility**
-- I'm currently learning **Python, Bash, PowerShell**
+- Сейчас работаю над **System Optimization Utility**
+- Изучаю **Python, Bash, PowerShell**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Языки и инструменты:</h3>
 <p align="left">
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" />
